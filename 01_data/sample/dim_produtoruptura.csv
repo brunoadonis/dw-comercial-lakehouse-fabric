@@ -1,0 +1,9 @@
+﻿SK_PRODUTORUPTURA;ID_RUPTURA_ORIGEM;DESCRICAO_RUPTURA;TIPO_RUPTURA;RESPONSAVEL_RUPTURA;FL_ATIVO;DATA_CARGA;DATA_ATUALIZACAO_DW
+1;RUP001;Atraso do fornecedor;Fornecedor;Fornecedor;S;2026-07-01 10:00:00;
+2;RUP002;Falha de previsão de demanda;Demanda;Comercial;S;2026-07-01 10:00:00;
+3;RUP003;Erro de cadastro;Cadastro;Cadastro;S;2026-07-01 10:00:00;
+4;RUP004;Falha logística;Logística;Centro de Distribuição;S;2026-07-01 10:00:00;
+5;RUP005;Estoque insuficiente;Estoque;Loja;S;2026-07-01 10:00:00;
+6;RUP006;Produto descontinuado;Comercial;Comercial;S;2026-07-01 10:00:00;
+7;RUP007;Perda operacional;Operação;Loja;S;2026-07-01 10:00:00;
+8;RUP008;Divergência de inventário;Inventário;Loja;S;2026-07-01 10:00:00;

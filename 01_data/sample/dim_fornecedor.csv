@@ -1,0 +1,16 @@
+﻿SK_FORNECEDOR;ID_FORNECEDOR_ORIGEM;NOME_FORNECEDOR;CNPJ_FORNECEDOR;CIDADE;ESTADO;PAIS;TIPO_FORNECEDOR;FL_ATIVO;DATA_CARGA;DATA_ATUALIZACAO_DW
+1;FOR001;Fornecedor 01 Ltda;90.742.696/0001-17;Salvador;BA;Brasil;Indústria;S;2026-07-01 10:00:00;
+2;FOR002;Fornecedor 02 Ltda;38.147.670/0001-27;Belo Horizonte;MG;Brasil;Atacadista;S;2026-07-01 10:00:00;
+3;FOR003;Fornecedor 03 Ltda;28.653.220/0001-83;Belo Horizonte;MG;Brasil;Distribuidor;S;2026-07-01 10:00:00;
+4;FOR004;Fornecedor 04 Ltda;23.695.684/0001-91;Rio de Janeiro;RJ;Brasil;Importador;S;2026-07-01 10:00:00;
+5;FOR005;Fornecedor 05 Ltda;22.660.829/0001-18;Serra;ES;Brasil;Distribuidor;S;2026-07-01 10:00:00;
+6;FOR006;Fornecedor 06 Ltda;73.796.644/0001-64;Curitiba;PR;Brasil;Atacadista;S;2026-07-01 10:00:00;
+7;FOR007;Fornecedor 07 Ltda;84.564.470/0001-48;Rio de Janeiro;RJ;Brasil;Distribuidor;S;2026-07-01 10:00:00;
+8;FOR008;Fornecedor 08 Ltda;99.898.349/0001-20;Belo Horizonte;MG;Brasil;Atacadista;S;2026-07-01 10:00:00;
+9;FOR009;Fornecedor 09 Ltda;53.846.559/0001-46;Vitória;ES;Brasil;Indústria;S;2026-07-01 10:00:00;
+10;FOR010;Fornecedor 10 Ltda;75.528.268/0001-53;São Paulo;SP;Brasil;Atacadista;S;2026-07-01 10:00:00;
+11;FOR011;Fornecedor 11 Ltda;63.140.784/0001-19;Curitiba;PR;Brasil;Importador;S;2026-07-01 10:00:00;
+12;FOR012;Fornecedor 12 Ltda;98.458.708/0001-73;Recife;PE;Brasil;Indústria;S;2026-07-01 10:00:00;
+13;FOR013;Fornecedor 13 Ltda;21.376.585/0001-99;Vitória;ES;Brasil;Indústria;S;2026-07-01 10:00:00;
+14;FOR014;Fornecedor 14 Ltda;99.417.762/0001-83;Recife;PE;Brasil;Importador;S;2026-07-01 10:00:00;
+15;FOR015;Fornecedor 15 Ltda;59.784.455/0001-12;Recife;PE;Brasil;Importador;S;2026-07-01 10:00:00;

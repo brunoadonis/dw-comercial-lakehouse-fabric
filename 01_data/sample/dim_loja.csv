@@ -1,0 +1,13 @@
+﻿SK_LOJA;ID_LOJA_ORIGEM;NOME_LOJA;CNPJ_LOJA;TIPO_LOJA;CIDADE;ESTADO;REGIONAL;PAIS;DATA_ABERTURA;FL_ATIVO;DATA_CARGA;DATA_ATUALIZACAO_DW
+1;LOJ001;Loja Serra 01;31.725.219/0001-73;Supermercado;Serra;ES;Sudeste;Brasil;2024-05-05;S;2026-07-01 10:00:00;
+2;LOJ002;Loja Vitória 02;41.507.500/0001-73;Supermercado;Vitória;ES;Sudeste;Brasil;2021-07-18;S;2026-07-01 10:00:00;
+3;LOJ003;Loja Vila Velha 03;45.240.938/0001-65;Express;Vila Velha;ES;Sul;Brasil;2023-07-12;S;2026-07-01 10:00:00;
+4;LOJ004;Loja Cariacica 04;97.489.336/0001-29;Supermercado;Cariacica;ES;Sudeste;Brasil;2019-04-22;S;2026-07-01 10:00:00;
+5;LOJ005;Loja Linhares 05;39.112.596/0001-85;Supermercado;Linhares;ES;Sul;Brasil;2020-01-05;S;2026-07-01 10:00:00;
+6;LOJ006;Loja São Mateus 06;63.647.478/0001-88;Express;São Mateus;ES;Sul;Brasil;2019-12-28;S;2026-07-01 10:00:00;
+7;LOJ007;Loja Belo Horizonte 07;75.732.770/0001-96;Express;Belo Horizonte;MG;Sudeste;Brasil;2021-11-26;S;2026-07-01 10:00:00;
+8;LOJ008;Loja Rio de Janeiro 08;81.501.507/0001-61;Atacarejo;Rio de Janeiro;RJ;Sudeste;Brasil;2021-11-13;S;2026-07-01 10:00:00;
+9;LOJ009;Loja São Paulo 09;17.295.168/0001-36;Atacarejo;São Paulo;SP;Sudeste;Brasil;2018-06-20;S;2026-07-01 10:00:00;
+10;LOJ010;Loja Campinas 10;16.204.100/0001-82;Supermercado;Campinas;SP;Nordeste;Brasil;2018-06-20;S;2026-07-01 10:00:00;
+11;LOJ011;Loja Curitiba 11;13.172.995/0001-36;Express;Curitiba;PR;Sul;Brasil;2019-11-09;S;2026-07-01 10:00:00;
+12;LOJ012;Loja Salvador 12;54.716.472/0001-70;Supermercado;Salvador;BA;Sudeste;Brasil;2024-08-15;S;2026-07-01 10:00:00;

@@ -1,0 +1,6 @@
+﻿SK_CANALVENDA;ID_CANALVENDA_ORIGEM;NOME_CANALVENDA;TIPO_CANAL;DESCRICAO_CANAL;FL_ATIVO;DATA_CARGA;DATA_ATUALIZACAO_DW
+1;CAN001;Loja Física;Físico;Venda presencial;S;2026-07-01 10:00:00;
+2;CAN002;E-commerce;Digital;Venda site;S;2026-07-01 10:00:00;
+3;CAN003;Marketplace;Digital;Venda marketplace;S;2026-07-01 10:00:00;
+4;CAN004;Aplicativo;Digital;Venda app;S;2026-07-01 10:00:00;
+5;CAN005;Televendas;Remoto;Venda telefone;S;2026-07-01 10:00:00;

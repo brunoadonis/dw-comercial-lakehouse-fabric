@@ -1,0 +1,24 @@
+# Dados Fictícios - DW Comercial
+
+Separador `;`, encoding `utf-8-sig`. Arquivos incluem colunas SK para manter integridade no Lakehouse. Para Oracle com identity GENERATED ALWAYS, use staging ou remova colunas identity na carga final.
+
+| arquivo                  | tabela               |   linhas | separador   | encoding   |
+|:-------------------------|:---------------------|---------:|:------------|:-----------|
+| dim_categoria.csv        | DIM_CATEGORIA        |       10 | ;           | utf-8-sig  |
+| dim_marca.csv            | DIM_MARCA            |       20 | ;           | utf-8-sig  |
+| dim_fornecedor.csv       | DIM_FORNECEDOR       |       15 | ;           | utf-8-sig  |
+| dim_produto.csv          | DIM_PRODUTO          |      120 | ;           | utf-8-sig  |
+| dim_cliente.csv          | DIM_CLIENTE          |      500 | ;           | utf-8-sig  |
+| dim_formapagto.csv       | DIM_FORMAPAGTO       |        8 | ;           | utf-8-sig  |
+| dim_promocao.csv         | DIM_PROMOCAO         |       15 | ;           | utf-8-sig  |
+| dim_sazonalidade.csv     | DIM_SAZONALIDADE     |        7 | ;           | utf-8-sig  |
+| dim_tempo.csv            | DIM_TEMPO            |      365 | ;           | utf-8-sig  |
+| dim_produtoruptura.csv   | DIM_PRODUTORUPTURA   |        8 | ;           | utf-8-sig  |
+| dim_loja.csv             | DIM_LOJA             |       12 | ;           | utf-8-sig  |
+| dim_canalvenda.csv       | DIM_CANALVENDA       |        5 | ;           | utf-8-sig  |
+| fato_vendas.csv          | FATO_VENDAS          |    50000 | ;           | utf-8-sig  |
+| fato_estoque.csv         | FATO_ESTOQUE         |   129600 | ;           | utf-8-sig  |
+| fato_ruptura_estoque.csv | FATO_RUPTURA_ESTOQUE |     2000 | ;           | utf-8-sig  |
+| fato_metas.csv           | FATO_METAS           |     7200 | ;           | utf-8-sig  |
+| controle_carga.csv       | CONTROLE_CARGA       |       16 | ;           | utf-8-sig  |
+| log_execucao.csv         | LOG_EXECUCAO         |       16 | ;           | utf-8-sig  |

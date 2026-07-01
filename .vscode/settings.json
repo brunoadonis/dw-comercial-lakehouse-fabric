@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.csv": "csv",
+    "*.tsv": "csv",
+    "*.psv": "csv"
+  }
+}
